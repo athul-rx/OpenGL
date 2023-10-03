@@ -3,7 +3,7 @@
 #include <GL/glut.h>
 #include<stdio.h>
 
-int rx,ry;//semi-Major axis & semi Minor Axis
+int rx,ry;
 int xCenter,yCenter;//center of ellipse
 void myinit(void)
 {
